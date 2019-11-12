@@ -1,0 +1,115 @@
+[
+    {
+        "image_url": "https://images.unsplash.com/photo-1460317442991-0ec209397118?auto=format&fit=crop&w=500&q=80",
+        "type": "Apartment",
+        "location": "Nairobi CBD",
+        "title": "Superb Duplex apartment in the heart of the city under the sun"
+    },
+    {
+
+        "image_url": "https://images.unsplash.com/photo-1480074568708-e7b720bb3f09?auto=format&fit=crop&w=500&q=80",
+    
+        "type": "House",
+    
+        "location": "Spring valley",
+    
+        "title": "Charming house with woodstove"
+    
+      },
+    
+      {
+    
+        "image_url": "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?auto=format&fit=crop&w=500&q=80",
+    
+        "type": "Room",
+    
+        "location": "Ngara",
+    
+        "title": "Nice Clean Room in Brownstone Studio"
+    
+      },
+    
+      {
+    
+        "image_url": "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?auto=format&fit=crop&w=500&q=80",
+    
+        "type": "Room",
+    
+        "location": "South B",
+    
+        "title": "Bright and Sunny Shared Room in Downtown"
+    
+      },
+    
+      {
+    
+        "image_url": "https://images.unsplash.com/photo-1480074568708-e7b720bb3f09?auto=format&fit=crop&w=500&q=80",
+    
+        "type": "House",
+    
+        "location": "Buru Buru",
+    
+        "title": "Cape Cod Style House East side of Nairobi City"
+    
+      },
+    
+      {
+    
+        "image_url": "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?auto=format&fit=crop&w=500&q=80",
+    
+        "type": "Room",
+    
+        "location": "South C",
+    
+        "title": "Large Private Room Facing National Park"
+    
+      },
+    
+      {
+    
+        "image_url": "https://images.unsplash.com/photo-1480074568708-e7b720bb3f09?auto=format&fit=crop&w=500&q=80",
+    
+        "type": "House",
+    
+        "location": "Nyari",
+    
+        "title": "Single Family House in Limuru Road"
+    
+      },
+    
+      {
+    
+        "image_url": "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?auto=format&fit=crop&w=500&q=80",
+    
+        "type": "Room",
+    
+        "location": "Buru Buru",
+    
+        "title": "Small Clean Room near Boston University in Brookline"
+    
+      },
+    
+      {
+    
+        "image_url": "https://images.unsplash.com/photo-1480074568708-e7b720bb3f09?auto=format&fit=crop&w=500&q=80",
+    
+        "type": "House",
+    
+        "location": "Malindi",
+    
+        "title": "Beach House near Restaurants"
+    
+      },
+    
+      {
+    
+        "image_url": "https://images.unsplash.com/photo-1460317442991-0ec209397118?auto=format&fit=crop&w=500&q=80",
+    
+        "type": "Apartment",
+    
+        "location": "Komarocks",
+    
+        "title": "Rustic Apartment in Downtown"
+    
+      }
+]
